@@ -19,6 +19,6 @@
 
 # Optimization: 
 
-Horizontal Auto-Scaling is suggested in this case to improve bandwidth during spikes in traffic in order to keep availability to the application while also adding the necessary resources to handle an influx in traffic. 
+Vertical Auto-Scaling from a t2.medium to a t2.2xlarge is suggested in this case to improve bandwidth during spikes in traffic in order to keep availability to the application while also adding the necessary resources to handle an influx in traffic. 
 
 
